@@ -31,15 +31,8 @@ _For questions, comments, or collaboration contact me at thekidnamedkd@gmail.com
 
 ## Technologies Used
 
-* _HTML_
-* _CSS_
-* _JavaScript_
-* _jQuery_
-* _Bootstrap_
-* _Popper_
-* _Jest_
-* _Babel_
-* _ESlint_
+* _C#_
+* _.NET_
 
 ### License
 
